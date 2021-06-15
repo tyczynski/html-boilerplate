@@ -12,3 +12,6 @@
 
 # misc
 .DS_Store
+
+# build
+dist
